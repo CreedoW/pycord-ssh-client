@@ -1,6 +1,7 @@
 # pycord-ssh-client
 Connect, disconnected or run a command on SSH thru a discord bot !<br>
 The bot is using only slash commands. <br>
+/connect | /disconnect | /run [command] | /ping (test command)<br>
 <br>
 Requirements: py-cord, paramiko<br>
 > pip install py-cord<br>
